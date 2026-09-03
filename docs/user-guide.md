@@ -22,6 +22,40 @@ The Overview page for your agent appears.
       1. Select Add, and then select Add to agent.
 6. Test and improve your agent.
 
+<details>
+<summary>Error: "Copilot could not connect to server. Activation failed"</summary>
+
+This error indicates that you do not have a premium plan, or there was an error connecting to the Copilot.
+
+</details>
+
+<details>
+<summary>Cannot sign in</summary>
+
+Check your username, password, and network connection.
+
+</details>
+
+</details>
+
+<details>
+<summary>Application is not responding</summary>
+
+Refresh the application and try again.
+
+</details>
+
+<details>
+<summary>Why can't I push my changes?</summary>
+ 
+Make sure you:
+ 
+1. Have committed your changes.
+2. Are connected to the correct remote repository.
+3. Have permission to push to the repository.
+ 
+</details>
+
 ### Where to go from here?
 
 For next steps, see [Installation guide](installation.md)
