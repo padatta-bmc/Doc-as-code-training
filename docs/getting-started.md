@@ -204,6 +204,12 @@ Make sure you:
 
 For next steps, see [Use guide](user-guide.md)
 
+Stage all file by mentioning `git -A` or git `--all` or `git add .`(for entore repo and not folder specific)
+
+git commit --amend -m "need to fix a typo" (to pull back a file that was Saved)
+
+
+
 
 
 
