@@ -4,6 +4,8 @@ This guide describes the most common issues with GitHub Copilot and how to resol
 
 ## Unable to use the GitHub Copilot extension in the IDE
 
+MB: make it heading 3
+
 We recommend you follow the quickstart guide for GitHub Copilot while setting up GitHub Copilot on your machine. For more information, see Quickstart for GitHub Copilot.
 
 The GitHub Copilot extension is frequently updated to fix bugs and add new features. It's important to keep your extension up to date because older clients cannot communicate with the GitHub Copilot servers. Update your GitHub Copilot extension on all the machines you have it installed.
