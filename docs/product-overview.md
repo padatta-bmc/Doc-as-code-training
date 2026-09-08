@@ -20,5 +20,5 @@ Accessing Microsoft Copilot within Microsoft 365 apps like Word, Excel, PowerPoi
 
 ### Where to go from here?
 
-For next steps, see [Use guide](user-guide.md)
+For next steps, see [User guide](user-guide.md).
 AC: Missing period and clickable text should be User guide.
