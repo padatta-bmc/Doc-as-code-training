@@ -2,6 +2,8 @@
 
 Microsoft Copilot is an everyday AI companion developed by Microsoft that integrates advanced artificial intelligence into daily workflows, Windows devices, and the Microsoft 365 ecosystem. It is a conversational, AI-powered assistant that helps boost productivity and streamline workflows by offering contextual assistance, automating routine tasks, and analyzing data.
 
+AC: Add a link to MS Copilot documentation in the introduction.
+
 ## What can a copilot do?
 
 A copilot offers a wide range of AI-assisted capabilities to optimize workflows and enhance productivity. A copilot helps people by:  
@@ -19,3 +21,4 @@ Accessing Microsoft Copilot within Microsoft 365 apps like Word, Excel, PowerPoi
 ### Where to go from here?
 
 For next steps, see [Use guide](user-guide.md)
+AC: Missing period and clickable text should be User guide.
