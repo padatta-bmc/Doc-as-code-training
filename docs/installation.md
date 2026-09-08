@@ -9,6 +9,7 @@ Before installing the product, make sure you have:
 - Administrator access
 - Internet access
 - The installation package
+- VS Code
  
 ## Install the product
  
