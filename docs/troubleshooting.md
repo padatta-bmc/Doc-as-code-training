@@ -2,7 +2,7 @@
 
 This guide describes the most common issues with GitHub Copilot and how to resolve them.
 
-## Unable to use the GitHub Copilot extension in the IDE
+### Unable to use the GitHub Copilot extension in the IDE
 
 We recommend you follow the quickstart guide for GitHub Copilot while setting up GitHub Copilot on your machine. For more information, see Quickstart for GitHub Copilot.
 

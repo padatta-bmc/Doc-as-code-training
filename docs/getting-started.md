@@ -133,7 +133,7 @@ Go to **View>Command Palette>Markdown All in One: Create Table of Contents**
 
 - [x] Set up the editor
 - [x] Write some markdown
-- [ ] Connect a cloud service
+- [x] Connect a cloud service
 - [ ] Export the finished document
 
 ## Footnotes
