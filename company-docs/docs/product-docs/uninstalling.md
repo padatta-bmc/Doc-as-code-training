@@ -1,0 +1,1 @@
+To delete an agent or remove elements from Microsoft Copilot Studio, you need to delete the specific agent directly from your environment or clear active customizations through the solution management pages
