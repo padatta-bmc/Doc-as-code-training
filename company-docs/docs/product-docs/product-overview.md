@@ -15,7 +15,3 @@ A copilot offers a wide range of AI-assisted capabilities to optimize workflows 
 Copilot is built into Microsoft 365 applications so you can streamline tasks such as drafting documents, analyzing data, and managing projects, while staying in the flow of work.  
 
 Accessing Microsoft Copilot within Microsoft 365 apps like Word, Excel, PowerPoint, and Teams makes workflows more efficient. But the potential extends even further when connected with other Microsoft services like Azure and Dynamics 365, opening the door to advanced business applications that can transform how organizations operate.
-
-### Where to go from here?
-
-For next steps, see [User guide](user-guide.md).
