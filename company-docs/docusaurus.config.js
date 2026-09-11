@@ -83,9 +83,9 @@ const config = {
         respectPrefersColorScheme: true,
       },
       navbar: {
-        title: 'My Site',
+        title: 'Welcome',
         logo: {
-          alt: 'My Site Logo',
+          alt: 'Welcome Logo',
           src: 'img/logo.svg',
         },
         items: [
@@ -93,7 +93,7 @@ const config = {
             type: 'docSidebar',
             sidebarId: 'productASidebar',
             position: 'left',
-            label: 'Tutorial',
+            label: 'Explore DocHub',
           },
           {to: '/blog', label: 'Blog', position: 'left'},
           {
